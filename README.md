@@ -1,7 +1,7 @@
 # 📚 Estuda+ — Sistema Inteligente de Cronogramas Escolares
 
 Aplicativo mobile inteligente que gera cronogramas de estudo personalizados para
-candidatos ao **ENEM** e **SSA**, com base em áreas de estudo, matérias,
+candidatos ao **ENEM**, **SSA** e **Estudos Escolares**, com base em áreas de estudo, matérias,
 grau de dificuldade e horários disponíveis do usuário.
 
 ---
